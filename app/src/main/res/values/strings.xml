@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Xelpast</string>
+    <string name="komanda1">G2</string>
+    <string name="Komanda2">Cloud9</string>
+    <string name="score_text">15:15</string>
+    <string name="bo3">BO3</string>
+    <string name="xit">XIT</string>
+    <string name="xelpast_innovation_tournament">Xelpast Innovation Tournament</string>
+    <string name="choose_an_option">Choose an option</string>
+    <string name="_1_round">+1 round</string>
+    <string name="hide_commands">hide commands</string>
+    <string name="back">back</string>
+    <string name="edit_commands">Edit commands</string>
+    <string name="command_list">Command List</string>
+    <string name="reset">Reset</string>
+</resources>

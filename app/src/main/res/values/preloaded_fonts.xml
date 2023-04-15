@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aladin</item>
+        <item>@font/baskervville</item>
+        <item>@font/baskervville_italic</item>
+        <item>@font/gruppo</item>
+        <item>@font/lato_thin</item>
+        <item>@font/nova_script</item>
+        <item>@font/nova_square</item>
+        <item>@font/pacifico</item>
+        <item>@font/ribeye</item>
+    </array>
+</resources>
